@@ -7,6 +7,11 @@ body{
   background-color: hsl(212, 45%, 89%);
 }
 
+footer{
+  position: absolute;
+  bottom: 0;
+}
+
 h1, p{
   font-family: 'Outfit';
   margin: 0;
